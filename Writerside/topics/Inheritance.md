@@ -24,3 +24,10 @@ class Student : Person
 };
 ```
 
+Here, both Teacher and Student have access to all the fields from Person,
+as well as the methods 'Walk()' and 'Talk()'
+
+In 'Teacher' we add 3 new fields to represent the subject, their level of patience,
+and a list of the students they teach. It also has a new method called 'Teach()'.
+
+In 'Student' we only add one field 'grade' and a method called 'Learn()' which takes the lesson.
