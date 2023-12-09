@@ -6,6 +6,8 @@
                  start-page="Intro-to-OOP.md">
 
     <toc-element topic="Intro-to-OOP.md">
+        <toc-element topic="Getters-and-Setters.md"/>
         <toc-element topic="Inheritance.md"/>
     </toc-element>
+    <toc-element topic="Activity.md"/>
 </instance-profile>
